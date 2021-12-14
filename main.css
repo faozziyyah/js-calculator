@@ -1,9 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 /* general design */
 
     /* default styles */
 body{
     background-color: hsl(222, 26%, 31%);
+    font-family: 'Montserrat', sans-serif;
 }
 
 main{
@@ -25,7 +26,8 @@ header{
 
 .logo{
     color: #fff;
-    font-weight: 700;
+    font-weight: 900;
+    font-size: 20px;
 }
 
 .toggle-display{
@@ -108,31 +110,28 @@ header{
 }
 
 .calculator-screen {
-    background-color: hsl(224, 36%, 15%);
-    margin-bottom: 1em;
     border: none;
     cursor: pointer;
     border-radius: 15px;
     outline: none;
     align-items: center;
-    color: #fff;
     text-align: right;
-    width: 99%;
+    width: 97%;
     height: 60px;
     font-size: 30px;
     font-family: cursive;
     font-weight: 700;
-    box-shadow: inset -5px -5px 12px hsl(224, 36%, 15%),
-                inset 5px 5px 12px rgba(0,0,0,0.16);
+    padding-right: 10px;
+    margin-bottom: 1em;
+    margin-top: 10px;
 }
 
 .calculator{
-    background-color: hsl(223, 27%, 36%);
     padding: 15px;
     padding-top: 20px;
     border-radius: 30px;
-    box-shadow: inset 5px 5px 12px hsl(224, 36%, 15%),
-                      5px 5px 12px rgba(0,0,0,0.16);
+    box-shadow: inset 5px 5px 12px,
+                      5px 5px 12px;
 }
 
 .calculator-keys {
