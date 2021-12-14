@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images.screenshot.png)
-![](images.screenshot1.png)
+![](images/screenshot.png)
+![](images/screenshot1.png)
 
 ### Links
 
