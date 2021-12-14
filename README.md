@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/faozziyyah/js-calculator)
-- Live Site URL: [Add live site URL here](https://faozziyyah.github.io/js-calculator/)
+- Solution URL: [solution URL](https://github.com/faozziyyah/js-calculator)
+- Live Site URL: [live site URL](https://faozziyyah.github.io/js-calculator/)
 
 ## My process
 
